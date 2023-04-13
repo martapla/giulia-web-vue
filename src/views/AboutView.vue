@@ -8,12 +8,13 @@ import Navbar from '../components/Navbar.vue';
       <div class="about">
          <h1>Hello, I'm Giulia! &#127904 <br>  A  passionate digital  artist! </h1>
 
-         <h2>In a feminine <br>dreamy and mystical experience ... <br> ...is... <br>where I am going to take you ...<br>&#128150</h2>
+         <h2>I create feminine <br>dreamy and mystical <br> ... experiences ...  <br>&#128150</h2>
       </div>
     </header>
 </template>
 
-<style>
+<style scoped>
+
 .about {
   min-height: 100%;
 }

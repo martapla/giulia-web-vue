@@ -39,7 +39,7 @@ body {
     justify-content: center;
     align-items: center;
     /* background-color:#fbbc82; */
-    background-color:#efcf8f;
+    background-color:hwb(60 75% 5%);
 }
 
 article {
