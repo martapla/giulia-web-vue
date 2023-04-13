@@ -1,8 +1,8 @@
 ### This is my friend Giulia's website project :sparkling_heart:
 
-#### I am using Vue.js, and practising with Router, Components and Views.
+#### I am using Vue.js and practicing with Router, Components and Views.
 
 
 
 
-![Screenshot 2023-03-08 at 21 46 56](https://user-images.githubusercontent.com/101716371/223846317-2d138b44-a134-4f24-ae86-5393903cc14c.png)
+![Screenshot 2023-04-14 at 01 39 17](https://user-images.githubusercontent.com/101716371/231905713-2f3df768-6dcc-41dd-ad14-2125a2e4e8e1.png)
