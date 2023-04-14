@@ -39,7 +39,7 @@ body {
     justify-content: center;
     align-items: center;
     /* background-color:#fbbc82; */
-    background-color:hwb(60 75% 5%);
+    /* background-color:hwb(60 75% 5%); */
 }
 
 article {
@@ -80,7 +80,7 @@ article {
     width: 70%;
     border-radius: 245px;
     border:2px solid #ffff004f;
-    box-shadow: 0px 291px 231px 63px rgb(218 215 64 / 75%);
+    /* box-shadow: 0px 291px 231px 63px rgb(218 215 64 / 75%); */
 }
 .button {
     border:1px solid #423eb9;

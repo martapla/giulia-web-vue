@@ -3,14 +3,14 @@ import Navbar from '../components/Navbar.vue';
 </script>
 
 <template>
-    <header>
+    <body>
       <Navbar />
       <div class="about">
          <h1>Hello, I'm Giulia! &#127904 <br>  A  passionate digital  artist! </h1>
 
          <h2>I create feminine <br>dreamy and mystical <br> ... experiences ...  <br>&#128150</h2>
       </div>
-    </header>
+    </body>
 </template>
 
 <style scoped>

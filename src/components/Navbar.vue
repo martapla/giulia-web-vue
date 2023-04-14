@@ -19,7 +19,6 @@ import { RouterLink } from 'vue-router';
 <style scoped>
 
 .nav-routes {
-    background: white;
     display:flex;
     flex-direction: row;
     justify-content: center;
